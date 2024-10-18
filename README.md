@@ -1,14 +1,12 @@
 <p align="center">
-  <div style="width: 40px; height: 40px; border-radius: 50%; border: 5px solid #007ACC; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <img src="https://avatars.githubusercontent.com/u/40880139?s=400&u=fd779969170b198318ddebbae60e7a6dbd91f167&v=4" alt="Profile Picture" style="width: 30%; height: 30%; object-fit: cover;" />
-  </div>
+  <img src="https://avatars.githubusercontent.com/u/40880139?s=400&u=fd779969170b198318ddebbae60e7a6dbd91f167&v=4" alt="Profile Picture" width="160" height="160" style="border-radius: 50%; border: 5px solid #007ACC;" />
 </p>
 
 # 👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast
 
 Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend Development** with a passion for building robust and secure solutions. I currently work at **Sicunet Inc.**, a global leader in security solutions, where I develop Django-based systems for access control and security.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsrafuLkadult&label=Profile%20Views&color=0e75b6&style=flat" alt="Asraful-Kadult" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AsrafuLkadult&label=Profile%20Views&color=0e75b6&style=flat" alt="Asraful-Kadult" /> </p>
 
 ## 🏆 GitHub Trophy
 <p align="center">
@@ -28,13 +26,6 @@ Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend 
 ## 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsrafuLkadult&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🐦 Twitter
-<p align="center">
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" alt="Twitter Badge" />
-  </a>
 </p>
 
 ## 🛠️ Skills & Technologies
@@ -70,6 +61,33 @@ Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend 
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
+
+## 📚 Publications
+- **Bangla Handwritten Word Recognition Using YOLO V5**  
+  *Bulletin of Electrical Engineering and Informatics (BEEI)* | [Read Paper](https://doi.org/10.11591/eei.v13i3.6953)  
+  *Apr 22, 2024*
+
+- **Automatic Bangla Image Captioning Based on Transformer Model in Deep Learning**  
+  *International Journal of Advanced Computer Science and Applications (IJACSA)* | [Read Paper](http://dx.doi.org/10.14569/IJACSA.2023.01411113)  
+  *Dec 13, 2023*
+
+- **Handwritten Bengali Alphabets, Compound Characters and Numerals Recognition Using CNN-based Approach**  
+  *Annals of Emerging Technologies in Computing (AETiC)* | [Read Paper](http://aetic.theiaer.org/archive/v7/v7n3/p3.html)  
+  *Jul 1, 2023*
+
+- **Study and Prediction of Covid-19 Cases and Vaccinations Using Machine Learning in Bangladesh**  
+  *Australian Journal of Engineering and Innovative Technology* | [Read Paper](https://universepg.com/journal-details/ajeit/study-and-prediction-of-covid-19-cases-and-vaccinations-using-machine-learning-in-bangladesh)  
+  *Dec 30, 2022*
+
+## 🚀 Projects
+- **Access Control Security System**  
+  Developed a comprehensive access control solution using **Django** and **SQLite**, integrated with security protocols to ensure robust data handling and client security.
+
+- **Bangla Handwriting Recognition System**  
+  Built a state-of-the-art **YOLO V5** model for recognizing Bangla handwritten words, enhancing efficiency and accuracy.
+
+- **Covid-19 Data Analysis Platform**  
+  Created a data visualization platform using **Python** and **Pandas** for analyzing and predicting Covid-19 cases in Bangladesh.
 
 ## 🎓 Education
 **Pabna University of Science and Technology**  
