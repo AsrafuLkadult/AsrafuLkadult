@@ -1,4 +1,6 @@
-<img src="your-banner-image-url" alt="Profile Banner" width="100%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/036111dd-3131-47ff-9cd0-fdb5bd9046e4" alt="Profile Banner" width="20%">
+</p>
 
 # 👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast
 
