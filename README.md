@@ -37,20 +37,6 @@ Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend 
   </a>
 </p>
 
-## 📚 Latest Blog Posts
-
-### Dev.to Posts
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
-
-### Medium Posts
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
-### Personal Blog
-<!-- BLOG:START -->
-<!-- BLOG:END -->
-
 ## 🛠️ Skills & Technologies
 
 ### 🌐 Programming Languages
