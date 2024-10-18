@@ -72,8 +72,8 @@ Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend 
   *Dec 13, 2023*
 
 - **Handwritten Bengali Alphabets, Compound Characters and Numerals Recognition Using CNN-based Approach**  
-  *Annals of Emerging Technologies in Computing (AETiC)* | [Read Paper](http://aetic.theiaer.org/archive/v7/v7n3/p3.html)  | [Source Code] (https://github.com/AsrafuLkadult/Handwritten-Bengali-Alphabets-Compound-Characters-and-Numerals-Recognition-Using-CNN-based-Approach.git)
-  *Jul 1, 2023*
+  *Annals of Emerging Technologies in Computing (AETiC)* | [Read Paper](http://aetic.theiaer.org/archive/v7/v7n3/p3.html) | [Source Code](https://github.com/AsrafuLkadult/Handwritten-Bengali-Alphabets-Compound-Characters-and-Numerals-Recognition-Using-CNN-based-Approach.git) 
+ *Jul 1, 2023*
 
 - **Study and Prediction of Covid-19 Cases and Vaccinations Using Machine Learning in Bangladesh**  
   *Australian Journal of Engineering and Innovative Technology* | [Read Paper](https://universepg.com/journal-details/ajeit/study-and-prediction-of-covid-19-cases-and-vaccinations-using-machine-learning-in-bangladesh)  
