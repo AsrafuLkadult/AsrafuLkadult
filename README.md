@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/036111dd-3131-47ff-9cd0-fdb5bd9046e4" alt="Profile Banner" width="20%">
+  <div style="width: 40px; height: 40px; border-radius: 50%; border: 5px solid #007ACC; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+    <img src="https://avatars.githubusercontent.com/u/40880139?s=400&u=fd779969170b198318ddebbae60e7a6dbd91f167&v=4" alt="Profile Picture" style="width: 30%; height: 30%; object-fit: cover;" />
+  </div>
 </p>
 
 # 👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast
