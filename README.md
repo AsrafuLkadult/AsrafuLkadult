@@ -4,26 +4,26 @@
 
 Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend Development** with a passion for building robust and secure solutions. I currently work at **Sicunet Inc.**, a global leader in security solutions, where I develop Django-based systems for access control and security.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asraful-Kadult&label=Profile%20Views&color=0e75b6&style=flat" alt="Asraful-Kadult" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsrafuLkadult&label=Profile%20Views&color=0e75b6&style=flat" alt="Asraful-Kadult" /> </p>
 
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asraful-Kadult&theme=onedark&no-frame=true&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AsrafuLkadult&theme=onedark&no-frame=true&column=7" alt="GitHub Trophy" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asraful-Kadult&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsrafuLkadult&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 💻 Top Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraful-Kadult&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrafuLkadult&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asraful-Kadult&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsrafuLkadult&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🐦 Twitter
@@ -84,8 +84,7 @@ Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend 
 ## 🎓 Education
 **Pabna University of Science and Technology**  
 *B.Sc. Engineering in Information and Communication Engineering (ICE)*  
-*Mar 2018 - Nov 2023* | **CGPA**: 3.71 / 4.00  
-Activities: Competitive Programming, Sports, Social Networking  
+*Mar 2018 - Nov 2023* 
 
 ## 🌐 Experience
 **Software Engineer**  
