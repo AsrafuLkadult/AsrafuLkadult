@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/40880139?s=400&u=fd779969170b198318ddebbae60e7a6dbd91f167&v=4" alt="Profile Picture" width="160" height="160" style="border-radius: 50%; border: 5px solid #007ACC;" />
-</p>
-
-# 👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast
-
-Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend Development** with a passion for building robust and secure solutions. I currently work at **Sicunet Inc.**, a global leader in security solutions, where I develop Django-based systems for access control and security.
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AsrafuLkadult&label=Profile%20Views&color=0e75b6&style=flat" alt="Asraful-Kadult" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/40880139?s=400&u=fd779969170b198318ddebbae60e7a6dbd91f167&v=4" alt="Profile Picture" width="160" height="160" style="border-radius: 50%; border: 5px solid #007ACC;" /> </p><h1 align="center">👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast</h1><p align="center"> Welcome to my GitHub profile! I am a passionate <strong>Software Engineer</strong> specializing in <strong>Backend Development</strong> with a focus on building scalable, secure, and efficient systems. Currently, I work at <strong>Sicunet Inc.</strong>, where I develop Django-based solutions for access control and security systems. </p>
 
 ## 🏆 GitHub Trophy
 <p align="center">
