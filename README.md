@@ -12,7 +12,7 @@ Databases
 Cloud & DevOps
 <p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" /> </p>
 
-## 📚 Publications
+📚 Publications
 - **Bangla Handwritten Word Recognition Using YOLO V5**  
   *Bulletin of Electrical Engineering and Informatics (BEEI)* | [Read Paper](https://doi.org/10.11591/eei.v13i3.6953)  
   *Apr 22, 2024*
@@ -29,7 +29,7 @@ Cloud & DevOps
   *Australian Journal of Engineering and Innovative Technology* | [Read Paper](https://universepg.com/journal-details/ajeit/study-and-prediction-of-covid-19-cases-and-vaccinations-using-machine-learning-in-bangladesh)  
   *Dec 30, 2022*
 
-## 🚀 Projects
+🚀 Notable Projects
 - **Access Control Security System**  
   Developed a comprehensive access control solution using **Django** and **SQLite**, integrated with security protocols to ensure robust data handling and client security.
 
@@ -39,17 +39,11 @@ Cloud & DevOps
 - **Covid-19 Data Analysis Platform**  
   Created a data visualization platform using **Python** and **Pandas** for analyzing and predicting Covid-19 cases in Bangladesh.
 
-## 🎓 Education
+🎓 Education
 **Pabna University of Science and Technology**  
 *B.Sc. Engineering in Information and Communication Engineering (ICE)*  
 *Mar 2018 - Nov 2021* 
 
-## 📫 Get in Touch
-- **Email**: [mdasrafulm333@gmail.com](mailto:mdasrafulm333@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mdasraful)
-- **GitHub**: [GitHub](https://github.com/Asraful-Kadult)
-- **ResearchGate**: [ResearchGate](https://www.researchgate.net/profile/Md-Asraful-4/research)
-
----
-
-*Feel free to connect, collaborate, or explore my repositories. Excited for new challenges and innovations!*
+📫 Let's Connect
+<p align="left"> <a href="mailto:mdasrafulm333@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/mdasraful"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Asraful-Kadult"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.researchgate.net/profile/Md-Asraful-4/research"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /> </a> </p>
+<p align="center"> <em>Feel free to explore my repositories, collaborate on projects, or reach out for exciting opportunities!</em> </p>
