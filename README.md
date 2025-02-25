@@ -1,15 +1,18 @@
-<h1 align="center">👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast</h1> <p align="center">Welcome to my GitHub profile! I'm a passionate and results-driven <strong>Software Engineer</strong> focused on <strong>Backend Development</strong> and cutting-edge technologies.</p>
+# 👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast
 
-🔍 About Me
-💻 Specialize in building scalable, secure, and efficient backend systems.
-🛠️ Skilled in designing robust architectures and optimizing performance.
-🤖 Enthusiastic about machine learning and exploring AI-driven solutions.
-🚀 Passionate about solving complex problems and delivering high-quality solutions.
-🌐 Active contributor to open-source projects and tech communities.
-🎯 What Drives Me
-🔬 Continuously expanding my knowledge and staying updated with the latest tech trends.
-🧩 Love collaborating on innovative projects and tackling challenging problems.
-📈 Committed to building impactful solutions that make a difference.
+Welcome to my GitHub profile! I'm a passionate and results-driven **Software Engineer** focused on **Backend Development** and cutting-edge technologies.
+
+🔍 **About Me**
+- 💻 Specialize in building **scalable**, **secure**, and **efficient** backend systems.  
+- 🛠️ Skilled in designing robust architectures and optimizing performance.  
+- 🤖 Enthusiastic about **machine learning** and exploring AI-driven solutions.  
+- 🚀 Passionate about solving complex problems and delivering high-quality solutions.  
+- 🌐 Active contributor to **open-source projects** and tech communities.
+  
+🎯 **What Drives Me**
+- 🔬 Continuously expanding my knowledge and staying updated with the latest tech trends.  
+- 🧩 Love collaborating on innovative projects and tackling challenging problems.  
+- 📈 Committed to building impactful solutions that make a difference.  
 
 📊 GitHub Stats & Achievements
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AsrafuLkadult&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AsrafuLkadult&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AsrafuLkadult&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrafuLkadult&layout=compact&theme=radical" alt="Top Languages" /> </p><p align="center"> <img src="https://streak-stats.demolab.com/?user=AsrafuLkadult&theme=radical" alt="GitHub Streak" /> </p>
