@@ -73,14 +73,7 @@ Welcome! I am **Md Asraful**, a **Software Engineer** specializing in **Backend 
 ## 🎓 Education
 **Pabna University of Science and Technology**  
 *B.Sc. Engineering in Information and Communication Engineering (ICE)*  
-*Mar 2018 - Nov 2023* 
-
-## 🌐 Experience
-**Software Engineer**  
-**Sicunet Inc.** | Bangladesh | Nov 2023 - Present  
-- 🚀 Developing Django-based solutions for access control security products.
-- 🌐 Specializing in **Jupiter**, contributing to seamless integration and advanced functionalities.
-- 🔒 Enhancing security measures and providing innovative solutions for clients worldwide.
+*Mar 2018 - Nov 2021* 
 
 ## 📫 Get in Touch
 - **Email**: [mdasrafulm333@gmail.com](mailto:mdasrafulm333@gmail.com)
