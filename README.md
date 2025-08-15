@@ -1,63 +1,78 @@
-# 👨‍💻 Md Asraful | Software Engineer | Backend Developer | Machine Learning Enthusiast
+# 👨‍💻 Md Asraful | Software Engineer | Backend Engineer | Cloud & AI Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate and results-driven **Software Engineer** focused on **Backend Development** and cutting-edge technologies.
+🚀 **Backend-focused Software Engineer** with 3+ years of experience designing **scalable, secure, and high-performance** systems. Skilled in **Python, Django, DRF, FastAPI, AWS, Docker**, and asynchronous architectures. Passionate about building impactful products, optimizing performance, and contributing to open-source.
 
-🔍 **About Me**
-- 💻 Specialize in building **scalable**, **secure**, and **efficient** backend systems.  
-- 🛠️ Skilled in designing robust architectures and optimizing performance.  
-- 🤖 Enthusiastic about **machine learning** and exploring AI-driven solutions.  
-- 🚀 Passionate about solving complex problems and delivering high-quality solutions.  
-- 🌐 Active contributor to **open-source projects** and tech communities.
-  
-🎯 **What Drives Me**
-- 🔬 Continuously expanding my knowledge and staying updated with the latest tech trends.  
-- 🧩 Love collaborating on innovative projects and tackling challenging problems.  
-- 📈 Committed to building impactful solutions that make a difference.  
+---
 
-📊 GitHub Stats & Achievements
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AsrafuLkadult&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AsrafuLkadult&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AsrafuLkadult&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrafuLkadult&layout=compact&theme=radical" alt="Top Languages" /> </p><p align="center"> <img src="https://streak-stats.demolab.com/?user=AsrafuLkadult&theme=radical" alt="GitHub Streak" /> </p>
-🛠️ Technical Skills
-Programming Languages
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> </p>
-Frameworks & Libraries
-<p align="left"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> </p>
-Databases
-<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> </p>
-Cloud & DevOps
-<p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" /> </p>
+## 🔍 About Me
+- 🛠 **Backend Specialist** – REST APIs, microservices, async processing, and database optimization.
+- 🌩 **Cloud & DevOps** – AWS, Docker, CI/CD, cloud security, and infrastructure automation.
+- 🤖 **ML/AI Enthusiast** – Research publications in **Computer Vision** and **NLP**.
+- 🔐 Strong focus on **security** – JWT, RBAC, API keys, SSL/TLS, and secure payments.
+- 💡 Solved **1200+ DSA problems** and competed in ACM ICPC regionals.
 
-📚 Publications
-- **Bangla Handwritten Word Recognition Using YOLO V5**  
-  *Bulletin of Electrical Engineering and Informatics (BEEI)* | [Read Paper](https://doi.org/10.11591/eei.v13i3.6953)  
-  *Apr 22, 2024*
+---
 
-- **Automatic Bangla Image Captioning Based on Transformer Model in Deep Learning**  
-  *International Journal of Advanced Computer Science and Applications (IJACSA)* | [Read Paper](http://dx.doi.org/10.14569/IJACSA.2023.01411113)  
-  *Dec 13, 2023*
+## 🏆 Achievements
+- 🥇 Champion – Multiple Inter-University & Intra-Department Programming Contests.
+- 🎯 Top 3% – Dhaka ACM ICPC Regional Preliminary.
+- 📄 4 Published Research Papers in AI/ML, CV & NLP.
+- 📊 Reduced operational costs by **40%** and improved API performance by **60%** at Sicunet Inc.
 
-- **Handwritten Bengali Alphabets, Compound Characters and Numerals Recognition Using CNN-based Approach**  
-  *Annals of Emerging Technologies in Computing (AETiC)* | [Read Paper](http://aetic.theiaer.org/archive/v7/v7n3/p3.html) | [Source Code](https://github.com/AsrafuLkadult/Handwritten-Bengali-Alphabets-Compound-Characters-and-Numerals-Recognition-Using-CNN-based-Approach.git) 
- *Jul 1, 2023*
+---
 
-- **Study and Prediction of Covid-19 Cases and Vaccinations Using Machine Learning in Bangladesh**  
-  *Australian Journal of Engineering and Innovative Technology* | [Read Paper](https://universepg.com/journal-details/ajeit/study-and-prediction-of-covid-19-cases-and-vaccinations-using-machine-learning-in-bangladesh)  
-  *Dec 30, 2022*
+## 📂 Featured Projects
+### [**Neptune 2.0 – Security Access Control System**](http://demo.sicunet.com/login)
+> Embedded OS & browser-managed system for real-time control of NVRs, cameras, Facegate, readers.
+- Django + DRF APIs with JWT/RBAC for multi-role access.
+- AWS EC2 + Docker deployment with 99.9% uptime.
+- Query optimization & caching → **60% faster responses**.
 
-🚀 Notable Projects
-- **Access Control Security System**  
-  Developed a comprehensive access control solution using **Django** and **SQLite**, integrated with security protocols to ensure robust data handling and client security.
+### [**License Management System**](https://n2license.sicunet.com)
+> Handles 10k+ daily users for license purchases and renewals.
+- Secure payments (Square API, tokenization, webhooks).
+- Celery for automated renewals.
+- Achieved **45% higher checkout success rate**.
 
-- **Bangla Handwriting Recognition System**  
-  Built a state-of-the-art **YOLO V5** model for recognizing Bangla handwritten words, enhancing efficiency and accuracy.
+### [**Bangla Handwriting Recognition**](https://doi.org/10.11591/eei.v13i3.6953)
+> YOLOv5-based handwritten word recognition for Bangla.
+- Published in BEEI (2024).
+- Boosted recognition accuracy with deep learning optimization.
 
-- **Covid-19 Data Analysis Platform**  
-  Created a data visualization platform using **Python** and **Pandas** for analyzing and predicting Covid-19 cases in Bangladesh.
+---
 
-🎓 Education
-**Pabna University of Science and Technology**  
-*B.Sc. Engineering in Information and Communication Engineering (ICE)*  
-*Mar 2018 - Nov 2021* 
+## 🛠 Tech Stack
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
 
-📫 Let's Connect
-<p align="left"> <a href="mailto:mdasrafulm333@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/mdasraful"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Asraful-Kadult"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.researchgate.net/profile/Md-Asraful-4/research"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /> </a> </p>
-<p align="center"> <em>Feel free to explore my repositories, collaborate on projects, or reach out for exciting opportunities!</em> </p>
+**Frameworks & Libraries**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) ![DRF](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsrafuLKadult&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AsrafuLKadult&theme=onedark&no-frame=true&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsrafuLKadult&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrafuLKadult&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=AsrafuLKadult&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdasrafulm333@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdasraful)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AsrafuLKadult)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Asraful-4/research)
+
+---
+
+💡 *Feel free to explore my repositories, fork interesting projects, or reach out for collaboration opportunities!*
