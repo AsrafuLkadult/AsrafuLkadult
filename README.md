@@ -194,16 +194,6 @@
 
 ## 🏅 Competitive Programming & Achievements
 
-<div align="center">
-
-| Platform | Profile | Problems Solved | Peak Rating |
-|----------|---------|-----------------|-------------|
-| **Codeforces** | [@AsrafuLKadult](https://codeforces.com/profile/AsrafuLKadult) | 400+ | 1400+ |
-| **CodeChef** | [@AsrafuLKadult](https://codechef.com/users/AsrafuLKadult) | 300+ | 1529 |
-| **LeetCode** | [@AsrafuLKadult](https://leetcode.com/AsrafuLKadult) | 500+ | - |
-
-</div>
-
 **🏆 Contest Achievements:**
 - 🥇 **Champion** - Multiple Inter-University & Intra-Department Programming Contests (2020-2021)
 - 🎯 **Top 3%** - Dhaka ACM ICPC Regional Preliminary (2018-2022)
