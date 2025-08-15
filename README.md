@@ -207,13 +207,13 @@
 1. **["Bangla Handwritten Word Recognition Using YOLO V5"](https://doi.org/10.11591/eei.v13i3.6953)**  
    *Bulletin of Electrical Engineering and Informatics (BEEI)* - April 2024
 
-2. **["Automatic Bangla Image Captioning Using Transformers"](https://doi.org/10.14569/IJACSA.2023.0141260)**  
+2. **["Automatic Bangla Image Captioning Using Transformers"](http://dx.doi.org/10.14569/IJACSA.2023.01411113)**  
    *International Journal of Advanced Computer Science and Applications (IJACSA)* - December 2023
 
-3. **["Handwritten Bengali Alphabets and Numerals Recognition Using CNN"](https://doi.org/10.33166/AETiC.2023.03.003)**  
+3. **["Handwritten Bengali Alphabets and Numerals Recognition Using CNN"](http://aetic.theiaer.org/archive/v7/v7n3/p3.html)**  
    *Annals of Emerging Technologies in Computing (AETiC)* - July 2023
 
-4. **["Study and Prediction of Covid-19 Cases Using Machine Learning"](https://doi.org/10.11591/ajeit.v1i1.15)**  
+4. **["Study and Prediction of Covid-19 Cases Using Machine Learning"](https://universepg.com/journal-details/ajeit/study-and-prediction-of-covid-19-cases-and-vaccinations-using-machine-learning-in-bangladesh)**  
    *APTIKOM Journal on Computer Science and Information Technologies (AJEIT)* - December 2022
 
 ---
